@@ -1,0 +1,75 @@
+
+
+==============================
+SECTION: 1_Initial_Details
+==============================
+## **Final Form/Report**
+
+| District | PS | FIR No | Date | Sections |
+|---|---|---|---|---|
+| North Goa | Panjim | FIR001/2025 | 12/10/2025 | IPC Sec. 363, POCSO Act Sec. 4, 6  |
+
+## **1_Initial Details**
+
+**1.1 Date and Time of Occurrence:** 2025-10-11T22:51:00.000Z
+
+**1.2 Place of Occurrence:** Location Of The Offense (Specific address to be mentioned)
+
+**1.3 Nature of Offence:**  POCSO Act, Trafficking
+
+**1.4 Complainant:** Victim_Name, age 15 years, Occupation - , R/o Dona Paula, Goa
+
+**1.5 Accused:** Suspect_Name, age 35 years, R/o Panjim, Goa
+
+**1.6 Modus Operandi:** The accused is left-handed.
+
+**1.7 Motive:** Trafficking
+
+
+**1.8 Date and Time of Information Received by Investigating Officer:** 12/10/2025, 12:26:18 am
+
+**1.9 Places Visited During Investigation:** Crime scene, Victim's house, Victim's workplace
+
+
+
+
+
+==============================
+SECTION: 2_Properties_Seized
+==============================
+##  2_Properties_Seized
+
+| Sl. No. | Property Description | Estimated Value (Rs.) | P.S. Property Register No. | From whom/where recovered or seized | Disposal |
+|---|---|---|---|---|---|
+| 1. | This sealed envelope contains the accused Suspect Name's clothing worn at the time of alleged incident.  | - | 01/25 | Seized from the accused Suspect Name under Panchnama during arrest on 12/10/2025. | Sent to FSL Verna for examination. |
+| 2. | One mobile phone, make and model [Insert details if available], IMEI number [Insert IMEI number if available].  | - | 02/25 | Seized from the accused Suspect Name under Panchnama during arrest on 12/10/2025. | Sent to FSL Verna for examination. |
+
+
+
+**Please Note:** This table is based on the information provided in the case diary. Additional properties may be seized during the investigation and added to this table accordingly.
+
+==============================
+SECTION: 3_Witnesses
+==============================
+## 3_Witnesses
+
+| Sr. No. | Name | Fathers/Husband Name | Age | Occupation | Address | Type of evidence |
+|---|---|---|---|---|---|---|
+| 1. | Victim_Name | - | 15 yrs | - | R/o Dona Paula, Goa | Victim |
+| 2. | [Witness Name 1] | [Father's/Husband's Name] | [Age] | [Occupation] | [Address] | Eyewitness |
+| 3. | [Witness Name 2] | [Father's/Husband's Name] | [Age] | [Occupation] | [Address] | Corroborating Witness |
+| 4. | Devarshee Gaunekar | - |  - | Supritendent Of Police | Panjim Police Station | Investigating Officer |
+
+**Note:** Please replace the bracketed information with the actual details of the witnesses involved in the case. You may need to add more rows depending on the number of witnesses. 
+
+
+
+
+==============================
+SECTION: 4_Brief_Facts
+==============================
+MAY IT PLEASE YOUR HONOUR
+
+In the limits of your Hon'ble Court and within the jurisdiction of Panjim Police Station that on 11.10.2025 at 22:51 hrs, the accused person mentioned at column No.11 at Sr.No.A-1,  Suspect Name, age 35 years, R/o Panjim, Goa, did commit an offence punishable u/s 363, 376 IPC and sec. 4 of POCSO Act, 2012 by trafficking Victim_Name, a minor aged 15 years,  R/o Dona Paula, Goa.
+
+Hence the charge. 
